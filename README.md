@@ -26,13 +26,13 @@
 
 <h3><p align="center">Disclaimer</p></h3>
 
-<i>Any actions and or activities related to <b>Zphisher</b> is solely your responsibility. The misuse of this toolkit can result in <b>criminal charges</b> brought against the persons in question. <b>The contributors will not be held responsible</b> in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
+<i>Segala tindakan dan/atau aktivitas yang berkaitan dengan Zphisher sepenuhnya menjadi tanggung jawab Anda. Penyalahgunaan perangkat ini dapat mengakibatkan tuntutan pidana terhadap orang yang bersangkutan. Para kontributor tidak akan bertanggung jawab jika ada tuntutan pidana yang diajukan terhadap individu mana pun yang menyalahgunakan perangkat ini untuk melanggar hukum.
 
-<b>This toolkit contains materials that can be potentially damaging or dangerous for social media</b>. Refer to the laws in your province/country before accessing, using,or in any other way utilizing this in a wrong way.
+Perangkat ini berisi materi yang berpotensi merusak atau berbahaya bagi media sosial . Silakan merujuk pada hukum di provinsi/negara Anda sebelum mengakses, menggunakan, atau memanfaatkannya dengan cara yang salah.
 
-<b>This Tool is made for educational purposes only</b>. Do not attempt to violate the law with anything contained here. <b>If this is your intention, then Get the hell out of here</b>!
+Alat ini dibuat hanya untuk tujuan pendidikan . Jangan mencoba melanggar hukum dengan apa pun yang terdapat di sini. Jika itu niat Anda, maka pergilah dari sini !
 
-It only demonstrates "how phishing works". <b>You shall not misuse the information to gain unauthorized access to someones social media</b>. However you may try out this at your own risk.</i>
+Ini hanya menunjukkan "bagaimana phishing bekerja". Anda tidak boleh menyalahgunakan informasi tersebut untuk mendapatkan akses tidak sah ke media sosial seseorang . Namun, Anda dapat mencoba hal ini dengan risiko sendiri.</i>
 
 ##
 
