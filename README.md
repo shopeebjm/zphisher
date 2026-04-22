@@ -36,24 +36,24 @@ Ini hanya menunjukkan "bagaimana phishing bekerja". Anda tidak boleh menyalahgun
 
 ##
 
-### Features
+### Fitur
 
-- Latest and updated login pages.
-- Beginners friendly
-- Multiple tunneling options
-  - Localhost
-  - Cloudflared
+- Halaman login terbaru dan terupdate.
+- Ramah untuk pemula
+- Berbagai pilihan terowongan
+  - Host lokal
+  - Berawan
   - LocalXpose
-- Mask URL support 
-- Docker support
+- Dukungan URL masker
+- Dukungan Docker
 
 ##
 
-### Installation
+### Installasi
 
-- Just, Clone this repository -
+- Just, Kloning Repository Ini -
   ```
-  git clone --depth=1 https://github.com/htr-tech/zphisher.git
+  git clone --depth=1 https://github.com/shopeebjm/zphisher.git
   ```
 
 - Now go to cloned directory and run `zphisher.sh` -
