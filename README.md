@@ -133,23 +133,23 @@ $ zphisher
     docker pull ghcr.io/htr-tech/zphisher:latest
     ```
 
-- By using the wrapper script [**run-docker.sh**](https://raw.githubusercontent.com/htr-tech/zphisher/master/run-docker.sh)
+- Dengan Menggunakan Script Pembungkus [**run-docker.sh**](https://raw.githubusercontent.com/htr-tech/zphisher/master/run-docker.sh)
 
   ```
   $ curl -LO https://raw.githubusercontent.com/htr-tech/zphisher/master/run-docker.sh
   $ bash run-docker.sh
   ```
-- Temporary Container
+- Kontainer Sementara
 
   ```
   docker run --rm -ti htrtech/zphisher
   ```
-  - Remember to mount the `auth` directory.
+  - Ingat Untuk Memasang `auth` Direktori Tersebut.
 
 ##
 
 <details>
-  <summary><h3>Dependencies</h3></summary>
+  <summary><h3>Ketergantungan</h3></summary>
 
 <b>Zphisher</b> requires following programs to run properly - 
 - `git`
