@@ -96,7 +96,7 @@ $ pkg install zphisher
 $ zphisher
 ```
 ### A Note : 
-***Termux discourages hacking*** .. So never discuss anything related to *zphisher* in any of the termux discussion groups. For more check : [wiki](https://wiki.termux.com/wiki/Hacking)
+***Termux Tidak Menganjurkan Untuk Peretasan*** .. Jadi jangan pernah membahas apa pun yang terkait dengan zphisher di grup diskusi Termux mana pun. Untuk informasi lebih lanjut, lihat: : [wiki](https://wiki.termux.com/wiki/Hacking)
 
 ##
 
