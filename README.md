@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Written%20In-Bash-darkcyan?style=flat-square">
 </p>
 
-<p align="center"><b>A beginners friendly, Automated phishing tool with 30+ templates.</b></p>
+<p align="center"><b>Alat phishing otomatis yang ramah bagi pemula dengan lebih dari 30 template..</b></p>
 
 ##
 
@@ -94,8 +94,10 @@ $ pkg install tur-repo
 $ pkg install zphisher
 $ zphisher
 ```
-### A Note : 
-***Termux Tidak Menganjurkan Untuk Peretasan*** .. Jadi jangan pernah membahas apa pun yang terkait dengan zphisher di grup diskusi Termux mana pun. Untuk informasi lebih lanjut, lihat: : [wiki](https://wiki.termux.com/wiki/Hacking)
+# Catatan : 
+- Termux Tidak Menganjurkan Untuk Peretasan
+- Jadi jangan pernah membahas apa pun yang terkait dengan zphisher di grup diskusi Termux mana pun. Untuk informasi lebih lanjut, lihat:
+- [wiki](https://wiki.termux.com/wiki/Hacking)
 
 ##
 
