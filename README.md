@@ -151,12 +151,12 @@ $ zphisher
 <details>
   <summary><h3>Ketergantungan</h3></summary>
 
-<b>Zphisher</b> requires following programs to run properly - 
+<b>Zphisher</b> Membutuhkan Program-Program Berikut Agar Dapat Berjalan Dengan Benar
 - `git`
 - `curl`
 - `php`
 
-> All the dependencies will be installed automatically when you run **Zphisher** for the first time.
+> Semua Dependensi Akan Di Install Secara Otomatis Saat Anda Menjalankan **Zphisher** Untuk Pertama Kalinya.
 </details>
 
 <details>
