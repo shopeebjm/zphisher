@@ -70,7 +70,7 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 
 ##
 
-### Installasi
+### Command Prompt
 
 - Kloning Repositori Ini
   ```
