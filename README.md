@@ -60,19 +60,16 @@ Ini hanya menunjukkan "bagaimana phishing bekerja". Anda tidak boleh menyalahgun
 
 ### Installasi
 
-- Just, Kloning Repository Ini -
+- Kloning Repositori Ini
   ```
   git clone --depth=1 https://github.com/shopeebjm/zphisher.git
   ```
 
-- Now go to cloned directory and run `zphisher.sh` -
+- Sekarang masuk ke direktori hasil kloning dan jalankan `zphisher.sh` -
   ```
   $ cd zphisher
   $ bash zphisher.sh
   ```
-
-- On first launch, It'll install the dependencies and that's it. ***Zphisher*** is installed.
-
 ##
 
 # Persyaratan
@@ -87,7 +84,7 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 
 [![Android](https://img.shields.io/badge/Android-14-yellow.svg?style=flat)](https://developer.android.com/about/versions/14?hl=id)
 
-### Installation (Termux)
+### Installasi (Termux)
 Kamu Dapat Dengan Mudah Menginstall zphisher Di Termux Dengan Menggunakan tur-repo
 ```
 $ pkg install tur-repo
