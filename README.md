@@ -65,6 +65,7 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 👇👇
 
 [![termux](https://img.shields.io/badge/termux-83%2B-yellow.svg?style=flat)](https://sfile.co/eZK8yBBtOiv)
+
 [![Android](https://img.shields.io/badge/Android-14-yellow.svg?style=flat)](https://developer.android.com/about/versions/14?hl=id)
 
 ##
