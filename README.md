@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Written%20In-Bash-darkcyan?style=flat-square">
 </p>
 
-<p align="center"><b>Alat phishing otomatis yang ramah bagi pemula dengan lebih dari 30 template.</b></p>
+<p align="center"><b>Alat phishing otomatis yang ramah bagi pemula dengan lebih dari 30+ template.</b></p>
 
 ##
 
