@@ -172,7 +172,7 @@ $ zphisher
 
 ##
 
-<h3 align="center"><i>:: Workflow ::</i></h3>
+<h3 align="center"><i>:: Alur Kerja ::</i></h3>
 <p align="center">
 <img src=".github/misc/workflow.gif"/>
 </p>
@@ -181,8 +181,8 @@ $ zphisher
 
 ### Find Me on:
 <p align="left">
-  <a href="https://tahmidrayat.is-a.dev" target="_blank"><img src="https://img.shields.io/badge/Socials-grey?style=for-the-badge&logo=linktree"></a>
-  <a href="https://github.com/htr-tech" target="_blank"><img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github"></a>
+  <a href="https://linktr.ee/kiplymacho" target="_blank"><img src="https://img.shields.io/badge/Socials-grey?style=for-the-badge&logo=linktree"></a>
+  <a href="https://github.com/shopeebjm" target="_blank"><img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github"></a>
 </p>
 
 
