@@ -160,7 +160,7 @@ $ zphisher
 </details>
 
 <details>
-  <summary><h3>Tested on</h3></summary>
+  <summary><h3>Telah Di Uji Pada</h3></summary>
 
 - **Ubuntu**
 - **Debian**
