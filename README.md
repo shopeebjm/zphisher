@@ -104,16 +104,16 @@ $ zphisher
 
 ##
 
-### Installation via ".deb" file
+### Install Melalui ".deb"
 
-- Download `.deb` files from the [**Latest Release**](https://github.com/htr-tech/zphisher/releases/latest)
-- If you are using ***termux*** then download the `*_termux.deb`
+- Download `.deb` Dari [**Latest Release**](https://github.com/htr-tech/zphisher/releases/latest)
+- Jika Anda Menggunakan ***termux*** Unduhlah `*_termux.deb`
 
-- Install the `.deb` file by executing
+- Install `.deb` File Dengan Menjalankan Perintah Berikut:
   ```
   apt install <your path to deb file>
   ```
-  Or
+  Atau
   ```
   $ dpkg -i <your path to deb file>
   $ apt install -f
@@ -121,7 +121,7 @@ $ zphisher
 
 ##
 
-### Run on Docker
+### Jalankan Di Docker
 
 - Docker Image Mirror:
   - **DockerHub** : 
