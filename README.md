@@ -170,13 +170,6 @@ $ zphisher
 - **Termux**
 </details>
 
-##
-
-<h3 align="center"><i>:: Alur Kerja ::</i></h3>
-<p align="center">
-<img src=".github/misc/workflow.gif"/>
-</p>
-
 ### *Thanks to all contributors*:
 
 <table>
